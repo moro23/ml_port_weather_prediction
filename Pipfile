@@ -13,6 +13,7 @@ matplotlib = "*"
 seaborn = "*"
 jupyter = "*"
 notebook = "*"
+dotnetcore2 = "*"
 
 [dev-packages]
 
